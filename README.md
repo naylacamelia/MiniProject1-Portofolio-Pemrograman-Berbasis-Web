@@ -17,7 +17,7 @@ Project ini merupakan website portofolio yang dibuat menggunakan HTML, CSS, Boot
 
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/72bd1bfb-4d8f-49dd-97ec-ae7f491c0019" />
 
-<img width="1920" height="980" alt="Screenshot 2026-03-01 192656" src="https://github.com/user-attachments/assets/8fb1bdf8-5f4d-422b-8b2d-5ae95e8dbcf5" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/43713f1b-507e-488a-9e64-a4d9147ded83" />
 
 ---
 
